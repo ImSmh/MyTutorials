@@ -13,3 +13,7 @@ YourFile/5.8/gcc_64/plugins/platforminputcontexts
 YourFile/Tools/QtCreator/lib/Qt/plugins/platforminputcontexts
 ```
 4. 重启
+
+
+# win 系统 Qt 输出乱码
+https://blog.csdn.net/qq_39791014/article/details/120791691
